@@ -1,4 +1,7 @@
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/9a1e9807-d9c7-4517-af80-26b2685ffc91" width="100%" />
 <h2 align="center">Niveditha — Software Engineer</h2>
+</div>
 
 <p align="center">
   Currently working at <strong>Crestaerospace Technologies</strong><br>
