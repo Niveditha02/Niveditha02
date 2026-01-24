@@ -56,17 +56,9 @@ Software Engineer specializing in MERN stack development with experience buildin
 
 ---
 
-## GitHub Activity  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=niveditha0667&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveditha0667&layout=compact&theme=default" />
-</p>
-
----
-
 ## Connect With Me  
 <p align="center">
   <a href="https://github.com/niveditha0667">GitHub</a> • 
-  <a href="https://www.linkedin.com">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/nivedithakokkapuni">LinkedIn</a> • 
   <a href="https://discord.com/users/niveditha0667_34910">Discord</a>
 </p>
