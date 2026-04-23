@@ -61,7 +61,7 @@ Software Engineer specializing in MERN stack development with experience buildin
 
 ## Connect With Me  
 <p align="center">
-  <a href="https://github.com/niveditha0667">GitHub</a> • 
+  <a href="https://github.com/nivedith02">GitHub</a> • 
   <a href="https://www.linkedin.com/in/nivedithakokkapuni">LinkedIn</a> • 
   <a href="https://discord.com/users/niveditha0667_34910">Discord</a>
 </p>
