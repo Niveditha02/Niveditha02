@@ -39,27 +39,6 @@ I specialize in creating responsive, component-driven applications with clean ar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedith02&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
-
-## 🔥 Featured Projects
-
-### 🧩 UI Component Library
-
-Reusable, scalable UI components built with React and Tailwind CSS
-👉 https://github.com/nivedith02
-
-### 📊 Real-Time Dashboard
-
-Interactive dashboard with dynamic data visualization and optimized rendering
-👉 https://github.com/nivedith02
-
-### 🔐 Auth System
-
-Secure authentication flow with JWT and protected routes
-👉 https://github.com/nivedith02
-
----
-
 ## ⚡ What I Do
 
 * Build responsive, production-ready UIs
