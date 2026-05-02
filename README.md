@@ -29,16 +29,6 @@ I specialize in creating responsive, component-driven applications with clean ar
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivedith02&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedith02&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
 ## ⚡ What I Do
 
 * Build responsive, production-ready UIs
