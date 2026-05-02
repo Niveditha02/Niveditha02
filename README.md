@@ -5,7 +5,7 @@
 
 <p align="center">
   Currently working at <strong>Crestaerospace Technologies</strong><br>
-  MERN Stack Developer | React.js | Node.js | REST APIs | Tailwind CSS
+       React.js |Javascript| Tailwind CSS
 </p>
 
 ---
