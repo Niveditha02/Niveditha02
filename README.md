@@ -1,55 +1,85 @@
 <div align="center">
- <img src="https://github.com/user-attachments/assets/9a1e9807-d9c7-4517-af80-26b2685ffc91" width="100%" />
-<h2 align="center">Niveditha — Software Engineer</h2>
+
+<img src="https://github.com/user-attachments/assets/9a1e9807-d9c7-4517-af80-26b2685ffc91" width="100%" />
+
+# Niveditha
+
+### Frontend Engineer • UI Specialist
+
+<img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&center=true&vCenter=true&width=500&lines=Building+Scalable+UI+Systems;Crafting+Clean+User+Experiences;React+%7C+Tailwind+%7C+JavaScript" />
+
 </div>
 
+---
+
+## 🚀 About Me
+
+Frontend Engineer focused on building scalable, high-performance user interfaces.
+I specialize in creating responsive, component-driven applications with clean architecture and intuitive UX.
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
 ---
 
-## Profile Summary  
-Software Engineer specializing in UI development with experience building scalable web applications, real-time dashboards, secure authentication workflows, and reusable interface components. Focused on clean architecture, performance optimization, and creating intuitive, maintainable user experiences.
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nivedith02&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
-## Technical Skills  
-
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedith02&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## What I Work On  
-- Developing responsive, component-driven UIs  
-- Building secure, scalable backend services  
-- Implementing real-time data workflows  
-- Designing reusable UI libraries and system architectures  
-- Performance tuning & clean code practices  
+## 🔥 Featured Projects
+
+### 🧩 UI Component Library
+
+Reusable, scalable UI components built with React and Tailwind CSS
+👉 https://github.com/nivedith02
+
+### 📊 Real-Time Dashboard
+
+Interactive dashboard with dynamic data visualization and optimized rendering
+👉 https://github.com/nivedith02
+
+### 🔐 Auth System
+
+Secure authentication flow with JWT and protected routes
+👉 https://github.com/nivedith02
 
 ---
 
-## Connect With Me  
+## ⚡ What I Do
+
+* Build responsive, production-ready UIs
+* Design reusable component systems
+* Optimize frontend performance
+* Implement secure authentication workflows
+* Develop real-time interactive applications
+
+---
+
+## 🌐 Connect
+
 <p align="center">
   <a href="https://github.com/nivedith02">GitHub</a> • 
   <a href="https://www.linkedin.com/in/nivedithakokkapuni">LinkedIn</a> • 
   <a href="https://discord.com/users/niveditha0667_34910">Discord</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Great UI isn't built. It's crafted."
 </p>
