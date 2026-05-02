@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/9a1e9807-d9c7-4517-af80-26b2685ffc91" width="100%" />
 
-# Niveditha
+# Niveditha K
 
 ### Frontend Engineer • UI Specialist
 
