@@ -4,14 +4,15 @@
 </div>
 
 <p align="center">
-  Currently working at <strong>Crestaerospace Technologies</strong><br>
-       React.js |Javascript| Tailwind CSS
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 </p>
 
 ---
 
 ## Profile Summary  
-Software Engineer specializing in MERN stack development with experience building scalable web applications, real-time dashboards, secure authentication workflows, and reusable UI systems. Focused on clean architecture, performance optimization, and maintainable code practices.
+Software Engineer specializing in UI development with experience building scalable web applications, real-time dashboards, secure authentication workflows, and reusable interface components. Focused on clean architecture, performance optimization, and creating intuitive, maintainable user experiences.
 
 ---
 
@@ -21,22 +22,9 @@ Software Engineer specializing in MERN stack development with experience buildin
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-</p>
-
-### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat" />
-</p>
-
-### Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
 ### Tools & Platforms
