@@ -43,6 +43,25 @@ I specialize in creating responsive, component-driven applications with clean ar
 * Develop real-time interactive applications
 
 ---
+## 🔥 Featured Projects
+
+### 🎙 Podcast Platform  
+🔗 https://podcast-web-app-e3g4.onrender.com  
+
+- Seamless authentication with Google OAuth  
+- Responsive, user-friendly interface for podcast browsing  
+- Smooth API integration with optimized data handling  
+- Clean component-based architecture for scalability  
+
+---
+
+### ✈️ AI Travel Planner  
+🔗 https://ai-travel-planner-web.onrender.com  
+
+- AI-driven travel recommendations with dynamic UI rendering  
+- Interactive itinerary planning experience  
+- Real-time updates for better user engagement  
+- Designed with performance and usability in mind  
 
 ## 🌐 Connect
 
