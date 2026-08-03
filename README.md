@@ -4,9 +4,9 @@
 
 # Niveditha K
 
-### Frontend Engineer • UI Specialist
+### React + Node.js Developer 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&center=true&vCenter=true&width=500&lines=Building+Scalable+UI+Systems;Crafting+Clean+User+Experiences;React+%7C+Tailwind+%7C+JavaScript" />
+<img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&center=true&vCenter=true&width=650&lines=Building+Scalable+Full+Stack+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Crafting+Fast+and+Responsive+User+Experiences;Turning+Ideas+Into+Production+Ready+Products" />
 
 </div>
 
@@ -17,62 +17,102 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Frontend Engineer focused on building scalable, high-performance user interfaces.
-I specialize in creating responsive, component-driven applications with clean architecture and intuitive UX.
+I'm a **React + Node.js Developer** with **3 years of experience** building modern, scalable web applications.
+
+I enjoy developing responsive frontends with React while building secure and efficient backend services using Node.js, Express, and MongoDB. I love writing clean, maintainable code and creating applications that deliver great user experiences.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
+
+### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
 </p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
-## ⚡ What I Do
-
-* Build responsive, production-ready UIs
-* Design reusable component systems
-* Optimize frontend performance
-* Implement secure authentication workflows
-* Develop real-time interactive applications
-
 ---
-## 🔥 Featured Projects
 
-### 🎙 Podcast Platform  
-🔗 https://podcast-web-app-e3g4.onrender.com  
+# ⚡ What I Do
 
-- Seamless authentication with Google OAuth  
-- Responsive, user-friendly interface for podcast browsing  
-- Smooth API integration with optimized data handling  
-- Clean component-based architecture for scalability  
+- Build scalable full-stack web applications
+- Develop responsive React applications
+- Design RESTful APIs using Node.js & Express
+- Build secure authentication systems (JWT & OAuth)
+- Integrate MongoDB databases
+- Optimize frontend performance
+- Create reusable component architectures
+- Develop real-time interactive applications
 
 ---
 
-### ✈️ AI Travel Planner  
-🔗 https://ai-travel-planner-web.onrender.com  
+# 🔥 Featured Projects
 
-- AI-driven travel recommendations with dynamic UI rendering  
-- Interactive itinerary planning experience  
-- Real-time updates for better user engagement  
-- Designed with performance and usability in mind  
+## 🎙 Podcast Platform
 
-## 🌐 Connect
+🔗 https://podcast-web-app-e3g4.onrender.com
+
+### Highlights
+
+- Google OAuth Authentication
+- Secure Node.js & Express backend
+- MongoDB database integration
+- Responsive React UI
+- REST API architecture
+- Component-based scalable design
+
+---
+
+## ✈️ AI Travel Planner
+
+🔗 https://ai-travel-planner-web.onrender.com
+
+### Highlights
+
+- AI-powered travel recommendations
+- React frontend with dynamic rendering
+- Node.js & Express backend
+- MongoDB Atlas integration
+- Secure authentication
+- Interactive itinerary planning
+- Optimized API communication
+
+---
+
+# 📈 Currently Exploring
+
+- TypeScript
+- Next.js
+- System Design
+- Docker
+- Backend Performance Optimization
+
+---
+
+# 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/nivedith02">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/nivedithakokkapuni">LinkedIn</a> • 
+  <a href="https://github.com/Niveditha02">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nivedithakokkapuni">LinkedIn</a> •
   <a href="https://discord.com/users/niveditha0667_34910">Discord</a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ "Great UI isn't built. It's crafted."
+  ⚡ <b>Building modern web applications with React, Node.js, and clean architecture.</b>
 </p>
